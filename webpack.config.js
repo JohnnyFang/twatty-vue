@@ -49,7 +49,7 @@ module.exports = {
     historyApiFallback: true,
     noInfo: true,
     overlay: true,
-    public: '51c5e8bf07b14f34a4052d7ec7a75d6e.vfs.cloud9.us-east-1.amazonaws.com'
+    public: 'localhost:8080'
   },
   performance: {
     hints: false
