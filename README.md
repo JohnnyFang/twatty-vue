@@ -16,3 +16,13 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## commands
+``` 
+# install vue-cli
+npm i -g vue-cli
+
+# create a new project using the "webpack" template
+vuew init webpack-simple
+```
